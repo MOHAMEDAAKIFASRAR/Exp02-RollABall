@@ -76,6 +76,6 @@ public class Code : MonoBehaviour
 
 
 ## Output:
-![alt text](<EX.No-2 OUTPUT.png>)
+![alt text](output.jpg)
 ## Result:
 Thus, a 3D application for RollABall objects in unity is developed successfully.
